@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="209" started-at="2022-02-10T01:40:15 IST" finished-at="2022-02-10T01:40:15 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="209" started-at="2022-02-10T01:40:15 IST" finished-at="2022-02-10T01:40:15 IST">
+      <class name="org.velocity2022.ActiTimeProject.TestNGVerify">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.velocity2022.ActiTimeProject.TestNGVerify@1712b94]" name="beforeClass" is-config="true" duration-ms="23" started-at="2022-02-10T01:40:15 IST" finished-at="2022-02-10T01:40:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.velocity2022.ActiTimeProject.TestNGVerify@1712b94]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2022-02-10T01:40:15 IST" finished-at="2022-02-10T01:40:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test()[pri:0, instance:org.velocity2022.ActiTimeProject.TestNGVerify@1712b94]" name="test" duration-ms="27" started-at="2022-02-10T01:40:15 IST" finished-at="2022-02-10T01:40:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.velocity2022.ActiTimeProject.TestNGVerify@1712b94]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-02-10T01:40:15 IST" finished-at="2022-02-10T01:40:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.velocity2022.ActiTimeProject.TestNGVerify@1712b94]" name="afterClass" is-config="true" duration-ms="0" started-at="2022-02-10T01:40:15 IST" finished-at="2022-02-10T01:40:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.velocity2022.ActiTimeProject.TestNGVerify -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
